@@ -1,5 +1,5 @@
 # 批量切割视频脚本
-Deep-learning tools to cut video
+Deep-Learning Homework tools to cut video.
 ## 使用方法
 Clone本仓库，将cut_video.sh,capture_video.py与source.mp4放至同一文件夹下
 按照
