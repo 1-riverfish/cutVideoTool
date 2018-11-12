@@ -13,8 +13,8 @@
 1. 克隆仓库、安装依赖项
 
 ```bash
-$ git clone https://github.com/1-riverfish/Cut_video.git
-$ cd Cut_video
+$ git clone https://github.com/1-riverfish/cut_video.git
+$ cd cut_video
 $ sudo chmod a+x cut_video.sh capture_video.mp4
 $ mv /path/to/sourcevideo ./source.mp4　# 将待切割视频移动到Cut_video目录下并更名为source.mp4
 $ sudo apt update && sudo apt upgrade
@@ -45,7 +45,7 @@ e.g:
 1. 执行脚本
 
 ```bash
-$ ./Cut_video.sh
+$ ./cut_video.sh
 
 ```
 
