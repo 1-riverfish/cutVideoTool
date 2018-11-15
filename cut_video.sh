@@ -44,7 +44,7 @@ do
     SS=`echo $START | cut -d":" -f2`
     EH=`echo $END | cut -d":" -f1`
     ES=`echo $END | cut -d":" -f2`
-    TIME=$[ $EH*60+$ES-$SH*60-$SS ]
+    TIME=$[ 10#$EH*60+10#$ES-10#$SH*60-10#$SS ]
     echo "start-time:$START  end-time:$END  time:$TIME"
     # 判断视频时长是否正确
     if [ $TIME -le 0 ]
