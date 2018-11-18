@@ -12,6 +12,7 @@
 - Linux(没有安装Linux操作系统的同学可以把**格式符合要求的txt文件**和**源视频**发给我)
   - ffmpeg
   - python3
+  - pip3 install opencv-python
 - **联网**(调用有道云API实现自动翻译)
 
 ## 使用
