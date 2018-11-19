@@ -9,7 +9,7 @@
 
 ## 运行环境
 
-- Linux(没有安装Linux操作系统的同学可以把**格式符合要求的txt文件**和**源视频**发给我)
+- Linux(没有安装Linux操作系统的同学可以把**格式符合要求的txt文件**和**源视频**发给我，**只需要中文版本**)
   - ffmpeg
   - python3
   - pip3 install opencv-python
