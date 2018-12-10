@@ -80,17 +80,3 @@ save_to_file("en.json",en_json)
 for sentence in en_sentences:
     print("en: "+sentence)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
